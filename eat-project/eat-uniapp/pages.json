@@ -1,0 +1,96 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/welcome/welcome",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path": "pages/product/product",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/myCart/myCart",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}
+
+	],
+
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+
+		//修改默认标题名称
+		"navigationStyle": "custom",
+
+		"navigationBarTitleText": "点餐小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+
+	//底部导航
+	"tabBar": {
+		"color": "#ccc", //文字默认颜色
+		"selectedColor": "#FF7F47", //文字选中时颜色
+		"backgroundColor": "#fff", //导航条背景色
+		"borderStyle": "white", // 添加这一行来去除分割线
+
+		"list": [{
+				"text": "首页",
+				"pagePath": "pages/index/index",
+				"iconPath": "/static/icon/index_icon.png", //未选中情况下灰色
+				"selectedIconPath": "/static/icon/index_icon2.png" //选中情况下橙色
+			},
+
+			{
+				"text": "商品",
+				"pagePath": "pages/product/product",
+				"iconPath": "/static/icon/product_icon.png", //未选中情况下灰色
+				"selectedIconPath": "/static/icon/product_icon2.png" //选中情况下橙色
+			},
+			{
+				"text": "购物车",
+				"pagePath": "pages/myCart/myCart",
+				"iconPath": "/static/icon/mycart.png", //未选中情况下灰色
+				"selectedIconPath": "/static/icon/mycart1.png" //选中情况下橙色
+			},
+
+			{
+				"text": "我的",
+				"pagePath": "pages/my/my",
+				"iconPath": "/static/icon/my.png", //未选中情况下灰色
+				"selectedIconPath": "/static/icon/my1.png" //选中情况下橙色
+			}
+
+		]
+	},
+	"uniIdRouter": {}
+}

@@ -1,0 +1,13 @@
+package com.project.template.mapper;
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.project.template.entity.Image;
+import com.project.template.entity.UserOrder;
+import org.apache.ibatis.annotations.Mapper;
+
+
+@Mapper
+public interface UserOrderMapper extends BaseMapper<UserOrder> {
+
+}
+

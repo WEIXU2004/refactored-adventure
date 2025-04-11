@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b1944f2-ad96-42a3-816d-964b62425d01" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Vue Composition API Component" />
+        <option value="Vue Options API Component" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uX7Thls3qsSUWDHE6F5SlKGPEX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.TemplateManagement.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/eat-project/eat-uniapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.serve-dev.executor&quot;: &quot;Run&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\IDEA\\IntelliJ IDEA 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;,
+      &quot;Vue Options API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.project.template.controller" />
+      <recent name="com.project.template.service.impl" />
+      <recent name="com.project.template.service" />
+      <recent name="com.project.template.mapper" />
+      <recent name="com.project.template.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve-dev">
+    <configuration name="TemplateManagement" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.template.TemplateManagement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve-dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve-dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve-dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4b1944f2-ad96-42a3-816d-964b62425d01" name="更改" comment="" />
+      <created>1742383077635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742383077635</updated>
+      <workItem from="1742383080876" duration="15039000" />
+      <workItem from="1742401104435" duration="104000" />
+      <workItem from="1742435792689" duration="10000" />
+      <workItem from="1742436852310" duration="3709000" />
+      <workItem from="1742451112640" duration="822000" />
+      <workItem from="1742451952902" duration="6458000" />
+      <workItem from="1742474081660" duration="1126000" />
+      <workItem from="1742475390856" duration="743000" />
+      <workItem from="1742523504987" duration="4744000" />
+      <workItem from="1742546258639" duration="2575000" />
+      <workItem from="1742559437161" duration="3366000" />
+      <workItem from="1742611522323" duration="3312000" />
+      <workItem from="1742614940085" duration="584000" />
+      <workItem from="1742627405592" duration="3096000" />
+      <workItem from="1742641459567" duration="20000" />
+      <workItem from="1742641496360" duration="860000" />
+      <workItem from="1742642379574" duration="1792000" />
+      <workItem from="1742744006409" duration="271000" />
+      <workItem from="1742782580746" duration="1941000" />
+      <workItem from="1742784738266" duration="1514000" />
+      <workItem from="1742788467159" duration="3024000" />
+      <workItem from="1742807355552" duration="3263000" />
+      <workItem from="1742811016278" duration="1847000" />
+      <workItem from="1742817638358" duration="349000" />
+      <workItem from="1742818000381" duration="6827000" />
+      <workItem from="1742873792483" duration="117000" />
+      <workItem from="1742873932588" duration="345000" />
+      <workItem from="1742874389587" duration="120000" />
+      <workItem from="1742890996698" duration="1575000" />
+      <workItem from="1742900668918" duration="3076000" />
+      <workItem from="1742958122865" duration="838000" />
+      <workItem from="1742966019398" duration="6845000" />
+      <workItem from="1743045846340" duration="382000" />
+      <workItem from="1743046637030" duration="33000" />
+      <workItem from="1743046691670" duration="361000" />
+      <workItem from="1743060432789" duration="2275000" />
+      <workItem from="1743076986057" duration="5299000" />
+      <workItem from="1743129954967" duration="3608000" />
+      <workItem from="1743142123947" duration="14492000" />
+      <workItem from="1743214043107" duration="3636000" />
+      <workItem from="1743232807116" duration="12102000" />
+      <workItem from="1743305252627" duration="6761000" />
+      <workItem from="1743323760030" duration="632000" />
+      <workItem from="1743339784966" duration="355000" />
+      <workItem from="1744212501921" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="回车了一下" />
+    <option name="LAST_COMMIT_MESSAGE" value="回车了一下" />
+  </component>
+</project>

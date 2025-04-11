@@ -1,0 +1,55 @@
+
+.swiper-item.data-v-57280228 {
+	height: 100%;
+}
+.swiper-item image.data-v-57280228 {
+	width: 100%;
+	height: 100%;
+}
+.container.data-v-57280228 {
+	background-color: #ffffff;
+	min-height: 100vh;
+}
+.box.data-v-57280228 {
+	display: flex;
+	justify-content: space-around;
+	margin: 30px 10px;
+	background-color: #fff;
+	border-radius: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+.box image.data-v-57280228 {
+	width: 100px;
+	height: 100px;
+}
+.box>view view.data-v-57280228 {
+	text-align: center;
+}
+.title.data-v-57280228 {
+	font-weight: bold;
+	font-size: 23px;
+	margin-bottom: 5px;
+	color: #333;
+}
+.content.data-v-57280228 {
+	color: #999;
+}
+
+/* 调整后的宣传图样式 */
+.promo-image.data-v-57280228 {
+	margin: 10px 10px 30px 10px;
+	border-radius: 12px;
+	overflow: hidden;
+	box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+	height: 380rpx;
+	/* 设置固定高度 */
+}
+.promo-image image.data-v-57280228 {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	/* 保持图片比例并填充容器 */
+}
+

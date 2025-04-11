@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 顶部区域 start */
+.top {
+	height: 10%;
+	/* ctrl+/ 注释 取消注释 */
+	/* background: skyblue; */
+	/* 弹性盒模型布局 */
+	display: flex;
+	/* 设置主轴的对齐方式 x*/
+	justify-content: space-between;
+	padding: 15rpx;
+	/* 元素的总高度和宽度包含内边距和边框(padding 与 border) : */
+	box-sizing: border-box;
+	/* 交叉轴 y */
+	align-items: center;
+}
+.top image {
+	width: 160rpx;
+	height: 100rpx;
+}
+.swiper {
+	height: 500rpx;
+	/* background: pink; */
+}
+.list {
+	margin-top: 25rpx;
+	height: 60%;
+	/* background: #ccc; */
+}
+.tea {
+	font-weight: bold;
+	color: orange;
+	font-size: 42rpx;
+}
+.content {
+	color: #ccc;
+	font-size: 25rpx;
+}
+/* 顶部区域 end */
+/* 轮播区域 start */
+/* 设置轮播图片的大小 */
+.h100 {
+	height: 100%;
+}
+.swiper-item image {
+	width: 100%;
+	height: 100%;
+}
+.swiper-item {
+	height: 100%;
+}
+/* 轮播区域 end */
+/* 底部列表区域 start */
+.list {
+
+	/* 弹性盒模型 */
+	display: flex;
+
+	/* 主轴 */
+	justify-content: space-between;
+}
+.list .left-list {
+	/* 750rpx */
+	height: 100%;
+	width: 150rpx;
+}
+.left-list image {
+	width: 70rpx;
+	height: 70rpx;
+}
+.left-list>view {
+	height: 150rpx;
+	background: #f5f5f5;
+	padding: 10rpx;
+	box-sizing: border-box;
+}
+.left-list view {
+	text-align: center;
+	font-weight: bold;
+	font-size: 26rpx;
+}
+.list .right-list {
+	width: 575rpx;
+	height: 100%;
+	/* background: pink; */
+
+	overflow: auto;
+}
+.current {
+	background: #fff !important;
+	color: orange;
+}
+/* 底部列表区域 end */
+
+
+.right-list>view {
+	display: flex;
+	align-items: center;
+	margin-bottom: 25rpx;
+}
+.photo {
+	width: 200rpx;
+	height: 200rpx;
+}
+.cart {
+	width: 50rpx;
+	height: 50rpx;
+}
+.title {
+	font-size: 35rpx;
+	font-weight: bold;
+}
+.number {
+	font-size: 25rpx;
+	color: #ccc;
+	line-height: 60rpx;
+}
+.price {
+	font-size: 25rpx;
+	color: orange;
+	display: inline-block;
+	font-weight: bold;
+}
+

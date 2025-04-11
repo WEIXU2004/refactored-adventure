@@ -1,0 +1,220 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 新增的黄色顶部区域样式 */
+.yellow-header.data-v-1d1ccc46 {
+	height: 170rpx;
+	width: 100%;
+	background-color: #FFF9E6;
+	margin-bottom: 20rpx;
+	box-shadow: 0 4rpx 10rpx rgba(255, 165, 0, 0.1);
+}
+/* 列表区域 start */
+.no-cart.data-v-1d1ccc46 {
+	text-align: center;
+	margin-top: 200rpx;
+	color: #ccc;
+}
+.no-cart text.data-v-1d1ccc46 {
+	color: orange;
+}
+.item.data-v-1d1ccc46 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-bottom: 15rpx;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 15rpx;
+}
+.item image.data-v-1d1ccc46 {
+	width: 150rpx;
+	height: 150rpx;
+}
+.delete.data-v-1d1ccc46 {
+	color: #fff;
+	background: orange;
+	border-radius: 50%;
+	width: 100rpx;
+	height: 60rpx;
+	font-weight: bold;
+	text-align: center;
+	line-height: 60rpx;
+}
+.title.data-v-1d1ccc46 {
+	font-size: 30rpx;
+	font-weight: bold;
+}
+.text.data-v-1d1ccc46 {
+	color: #ccc;
+}
+.price.data-v-1d1ccc46 {
+	display: flex;
+	justify-content: space-between;
+}
+.number.data-v-1d1ccc46 {
+	display: flex;
+}
+.contro.data-v-1d1ccc46 {
+	border: 1px solid #000;
+	width: 45rpx;
+	height: 45rpx;
+	text-align: center;
+	line-height: 45rpx;
+	margin-left: 15rpx;
+	margin-right: 15rpx;
+}
+.content.data-v-1d1ccc46 {
+	width: 300rpx;
+}
+.list.data-v-1d1ccc46 {
+	padding-bottom: 120px;
+}
+/* 列表区域 end */
+/* 底部区域 :start */
+.footer.data-v-1d1ccc46 {
+	display: flex;
+	width: 100%;
+	height: 60px;
+	position: fixed;
+	bottom: 50px;
+	left: 0;
+	background: #fff;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 25rpx;
+	box-sizing: border-box;
+	border-top: 1px solid #ccc;
+}
+.left-footer.data-v-1d1ccc46 {
+	display: flex;
+	line-height: 60px;
+}
+.to-pay.data-v-1d1ccc46 {
+	color: #fff;
+	background: orange;
+	border-radius: 50%;
+	width: 140rpx;
+	height: 60rpx;
+	text-align: center;
+	line-height: 60rpx;
+}
+.pay-price.data-v-1d1ccc46 {
+	font-size: 45rpx;
+	color: orange;
+	font-weight: bold;
+}
+/* 顶部区域 end */
+
